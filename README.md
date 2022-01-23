@@ -1,3 +1,4 @@
 # IUMS
-This is a java GUI Swing project made with JAVA GUI and MySQL database. To know how it works watch the video attached below. </br>
-https://bit.ly/3kNl1Mh
+A desktop application which processes lab clearance data for Ahsanullah University of Science and Technology’s students.
+
+### Link to watch <a href="https://www.youtube.com/watch?v=lhYJUGn6LJo&t=16s">**Features**</a>
