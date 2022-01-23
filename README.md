@@ -19,7 +19,7 @@ A desktop application which processes lab clearance data for Ahsanullah Universi
 
 ## IDE Used:
 <p align="left">
- <a href="https://visualstudio.microsoft.com" target="_blank" rel="noreferrer">
+ <a href="https://www.eclipse.org/downloads/" target="_blank" rel="noreferrer">
   <img src="https://user-images.githubusercontent.com/56752216/150678848-88c4bbf6-2029-4710-86cc-83ee63699ecb.svg" alt="visual studio 2010" width="125" height="63.5"/> 
  </a>
 </p>
