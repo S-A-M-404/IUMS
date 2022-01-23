@@ -5,18 +5,22 @@ A desktop application which processes lab clearance data for Ahsanullah Universi
 
 ## Programming Languages Used:
 <p align="left">
- </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+ <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
  </a> 
- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+</p>
+
+## Database Used:
+<p align="left">
+ <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
  </a>
 </p>
 
 ## IDE Used:
 <p align="left">
  <a href="https://visualstudio.microsoft.com" target="_blank" rel="noreferrer">
-  <img src="https://user-images.githubusercontent.com/56752216/150677341-f9bb8c7d-5dcd-4225-bdb8-7a70d64c30b0.svg" alt="visual studio 2010" width="125" height="63.5"/> 
+  <img src="https://user-images.githubusercontent.com/56752216/150678848-88c4bbf6-2029-4710-86cc-83ee63699ecb.svg" alt="visual studio 2010" width="125" height="63.5"/> 
  </a>
 </p>
 
